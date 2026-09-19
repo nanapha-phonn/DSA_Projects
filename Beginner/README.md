@@ -1,1 +1,1 @@
-#This is the beginner project of DSA
+/This is the beginner project of DSA
